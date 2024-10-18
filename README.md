@@ -10,14 +10,14 @@
     href="https://linkedin.com/in/artem-brui-563252288" 
     target="blank">
     <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MM3d3wXnnH-eA0UrWsYyXCfBLIPSOY-WAQ&s" 
       alt="linux" 
-      width="20" 
-      height="20"
-      style="margin-right: 4px;"/>
-    <span style="color: white; font-size: 15px;">- Linkedin</span><br>
+      width="150" 
+      height="40"/>
   </a>
 </p>
+
+
 
 ### Languages and Tools:
 
