@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div  style="display: flex;">
+<div  style="display: flex; justify-content: space-between;">
   <p align="left" style="width: 25%; display: flex; flex-direction: column;">
     <a 
       href="https://www.linux.org/" 
