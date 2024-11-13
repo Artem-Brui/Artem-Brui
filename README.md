@@ -1,39 +1,88 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">I'm a Web Developer from Germany</h3>
+<h3 align="center">I'm a Full-Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I’m passionate about building interactive web applications and always eager to learn new technologies and improve my skill set.</h3>
 
-- I’m currently learning **Full Stack Web Development**
-- You can reach me - **artembryj@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a 
-    href="https://linkedin.com/in/artem-brui-563252288" 
-    target="blank">
-    <img 
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2MM3d3wXnnH-eA0UrWsYyXCfBLIPSOY-WAQ&s" 
-      alt="linux" 
-      width="150" 
-      height="40"/>
-  </a>
+<p align="center">
+ <img width="600" src="img/github-snake.svg" alt="snake"/>
 </p>
 
+<br>
+<h2 align="center">Connect with me:</h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center"> 
+  <a href="https://linkedin.com/in/artem-brui-563252288" target="blank">
+    <h3 align="center" style="margin: 10px; color: white">My Linkedin Profile:</h3>
+    <img src="./img/linkedin.png" width="140" height="35"/>
+  </a>
+  <a href="mailto:artembryj@gmail.com" target="blank">
+    <h3 align="center" style="margin: 13px; color: white">My Email:</h3>
+    <h4 style="margin: 0">artembryj@gmail.com</h4>
+  </a>
+</div>
+<br>
 
 
-### Languages and Tools:
 
-| Photoshop | Premiere | HTML | CSS |
-|:-----:|:----:|:---:|:----:|
-| <img src="https://image.similarpng.com/very-thumbnail/2020/06/Logo-Adobe-Photoshop-CC-Vector-PNG.png" alt="Photoshop" width="70" height="70"/> <br>  | <img src="https://seeklogo.com/images/A/adobe-premiere-cc-logo-2B72AFF7E6-seeklogo.com.png" alt="Premiere" width="70" height="70"/> <br>  | <img src="https://static.vecteezy.com/system/resources/previews/001/416/705/non_2x/html5-emblem-orange-shield-and-white-text-vector.jpg" alt="HTML" width="70" height="70"/> <br>  | <img src="https://play-lh.googleusercontent.com/RTAZb9E639F4JBcuBRTPEk9_92I-kaKgBMw4LFxTGhdCQeqWukXh74rTngbQpBVGxqo" alt="CSS" width="70" height="70"/> <br>  |
+<h2 align="center">Languages and Tools</h2>
 
-| Bootstrap | Tailwind | Bulma | SASS |
-|:-----:|:----:|:---:|:----:|
-| <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="Bootstrap" width="70" height="70"/> <br>  | <img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="Tailwind" width="70" height="70"/> <br>  | <img src="https://pbs.twimg.com/profile_images/690988958860316672/xFkgPktt_400x400.png" alt="Bulma" width="70" height="70"/> <br>  | <img src="https://ih1.redbubble.net/image.329531972.1942/st,small,507x507-pad,600x600,f8f8f8.u1.jpg" alt="SASS" width="70" height="70"/> <br>  |
 
-| Figma | Git | JavaScript | TypeScript |
-|:----------:|:----------:|:---:|:-----:|
-| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgl7wpiJVouzQ_6Jgf4zGvIN4uiRsOYOcbQ&s" alt="Figma" width="70" height="70"/> <br>  | <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" width="70" height="70"/> <br>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"/> <br>  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70"/> <br>  |
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center"> 
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">HTML</p>
+    <img src="./img/html.jpg" alt="HTML" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">CSS</p>
+    <img src="./img/css.png" alt="CSS" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">SASS</p>
+    <img src="./img/sass.jpg" alt="SASS" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Bootstrap</p>
+    <img src="./img/bootstrap.png" alt="Bootstrap" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Tailwind</p>
+    <img src="./img/tailwind.webp" alt="Tailwind" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Bulma</p>
+    <img src="./img/bulma.png" alt="Bulma" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Figma</p>
+    <img src="./img/figma.png" alt="Figma" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Git</p>
+    <img src="./img/git.png" alt="Git" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">JavaScript</p>
+    <img src="./img/javascript.png" alt="JavaScript" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">TypeScript</p>
+    <img src="./img/typescript.png" alt="TypeScript" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">React</p>
+    <img src="./img/react.png" alt="React" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Redux</p>
+    <img src="./img/redux.png" alt="Redux" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">Express</p>
+    <img src="./img/express.png" alt="Express" width="70" height="70"/>
+  </div>&nbsp;
+  <div align="center" style="display: flex; flex-direction: column">
+    <p align="center" style="margin: 0">MongoDB</p>
+    <img src="./img/mongodb.png" alt="MongoDB" width="70" height="70"/>
+  </div>&nbsp;
 
-| React | Redux | Express | MongoDB |
-|:---------:|:-----:|:-------:|:---:|
-| <img src="https://www.ideematic.com/wp-content/uploads/2018/05/react-JS-developpement-web.png" alt="React" width="70" height="70"/> <br>  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsRlH5x8oBQAqXxQBNwTIGAnoBBrjEWHP2pw&s" alt="react" width="70" height="70"/> <br>  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT14U4J0XYAmbVs9BCCAQYvdTsGBGTGfxuPSxQ84K7jON-vBCfthFibip6wd_JF5Jsv5ow&usqp=CAU" alt="express" width="70" height="70"/> <br>  | <img src="https://coursera-university-assets.s3.amazonaws.com/05/353594a7964fdeaff4e10615de58c0/MongoDBSquareLogo.png" alt="sql" width="70" height="70"/> <br>  |
-
+ 
+   
+</div>
