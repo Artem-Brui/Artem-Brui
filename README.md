@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Developer specializing in the MERN stack (MongoDB, Express, React, Node.js). I’m passionate about building interactive web applications and always eager to learn new technologies and improve my skill set.</h3>
 
 <p align="center">
- <img width="600" src="img/github-snake.svg" alt="snake"/>
+ <img width="600" src="img/snake.svg" alt="snake"/>
 </p>
 
 <br>
