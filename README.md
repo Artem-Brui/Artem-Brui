@@ -78,8 +78,8 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/artem-brui-563252288" target="blank" style="color: white;">
-  My Porfolio Website<br/>
-  <img align="center" src="./img/porfolio_preview.png" alt="porfolio_preview" width="300" height="70"/><br/>
+  My Porfolio Website<br/><br/>
+  <img align="center" src="./img/porfolio_preview.webp" alt="porfolio_preview" width="300" height="160"/><br/>
  </a>
 </p>
 
