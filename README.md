@@ -76,5 +76,15 @@
 
 <h2 align="center">Connect with me:</h2>
 
-<h4 style="margin: 0">My Email: artembryj@gmail.com</h4>
-<a href="https://linkedin.com/in/artem-brui-563252288" target="blank" style="color: white;">My Linkedin Profile: Artem Brui</a>
+<p align="center">
+ <a href="https://linkedin.com/in/artem-brui-563252288" target="blank" style="color: white;">
+  My Porfolio Website<br/>
+  <img align="center" src="./img/porfolio_preview.png" alt="porfolio_preview" width="300" height="70"/><br/>
+ </a>
+</p>
+
+
+<h4 align="center" style="margin: 0">My Email: artembryj@gmail.com</h4>
+<p align="center">
+ <a href="https://linkedin.com/in/artem-brui-563252288" target="blank" style="color: white;">My Linkedin Profile: Artem Brui</a>
+</p>
