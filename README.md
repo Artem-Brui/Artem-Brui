@@ -77,7 +77,7 @@
 <h2 align="center">Connect with me:</h2>
 
 <p align="center">
- <a href="https://linkedin.com/in/artem-brui-563252288" target="blank" style="color: white;">
+ <a href="https://artem-brui-portfolio.onrender.com" target="blank" style="color: white;">
   My Porfolio Website<br/><br/>
   <img align="center" src="./img/porfolio_preview.webp" alt="porfolio_preview" width="300" height="160"/><br/>
  </a>
