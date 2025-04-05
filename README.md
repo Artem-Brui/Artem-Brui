@@ -1,6 +1,7 @@
 # Full Stack Web Developer
 
 ## Contacts
+
 <div align="left">
 
 [<img src="./img/email.webp" alt="Email" width="30" height="30" title="Email"/>](mailto:artembryj@gmail.com)
@@ -27,7 +28,6 @@
 
 ## My Works
 
-
 <div align=center>
 <h3>People App</h3>
 
@@ -35,6 +35,20 @@
     <tr>
       <td width="40%" align="center">
         <img src="./works/people-app.webp" alt="People App" width="200" height="200" title="People App"/>
+        <table>
+          <tr>
+            <td>
+              <a href="https://github.com/Artem-Brui/People-App" target="_blank">
+                <img src="./img/link-repo.webp" alt="Link to Repo" width="200" height="50"/>
+              </a>
+            </td>
+            <td>
+              <a href="https://artem-brui.github.io/People-App/#/people" target="_blank">
+                <img src="./img/link-demo.webp" alt="Link to DEMO" width="200" height="50"/>
+              </a>
+            </td>
+          </tr>
+        </table>
       </td>
       <td align="left">
         <strong>Key features:</strong><br>
