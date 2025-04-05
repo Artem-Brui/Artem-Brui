@@ -35,6 +35,8 @@
     <tr>
       <td width="40%" align="center">
         <img src="./works/people-app.webp" alt="People App" width="200" height="200" title="People App"/>
+        <br>
+        <br>
         <table>
           <tr>
             <td>
