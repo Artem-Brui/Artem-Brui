@@ -1,5 +1,16 @@
 # Full Stack Web Developer
 
+## Contacts
+<div align="left">
+
+[<img src="./img/email.webp" alt="Email" width="30" height="30" title="Email"/>](mailto:artembryj@gmail.com)
+[artembryj@gmail.com](mailto:artembryj@gmail.com)
+
+[<img src="./img/linkedin.webp" alt="LinkedIn" width="30" height="30" title="LinkedIn"/>](https://linkedin.com/in/artem-brui)
+[Artem Brui - LinkedIn](https://linkedin.com/in/artem-brui)
+
+</div>
+
 ## Tech Stack
 
 <div align="center">
@@ -14,7 +25,23 @@
 
 </div>
 
-## Connect with me
+## My Works
 
-- **Email:** artembryj@gmail.com
-- **LinkedIn:** [Artem Brui](https://linkedin.com/in/artem-brui-563252288)
+<div align="center">
+
+### Project 1
+
+[![Project 1](https://via.placeholder.com/300x200)](https://github.com/yourusername/project1)
+**Description:** Brief description of your first project
+
+### Project 2
+
+[![Project 2](https://via.placeholder.com/300x200)](https://github.com/yourusername/project2)
+**Description:** Brief description of your second project
+
+### Project 3
+
+[![Project 3](https://via.placeholder.com/300x200)](https://github.com/yourusername/project3)
+**Description:** Brief description of your third project
+
+</div>
