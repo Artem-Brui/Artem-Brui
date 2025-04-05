@@ -27,21 +27,30 @@
 
 ## My Works
 
-<div align="center">
 
-### Project 1
+<div align=center>
+<h3>People App</h3>
 
-[![Project 1](https://via.placeholder.com/300x200)](https://github.com/yourusername/project1)
-**Description:** Brief description of your first project
-
-### Project 2
-
-[![Project 2](https://via.placeholder.com/300x200)](https://github.com/yourusername/project2)
-**Description:** Brief description of your second project
-
-### Project 3
-
-[![Project 3](https://via.placeholder.com/300x200)](https://github.com/yourusername/project3)
-**Description:** Brief description of your third project
-
+  <table>
+    <tr>
+      <td width="40%" align="center">
+        <img src="./works/people-app.webp" alt="People App" width="200" height="200" title="People App"/>
+      </td>
+      <td align="left">
+        <strong>Key features:</strong><br>
+        - Advanced search with multiple parameters (name, parents, gender, century)<br>
+        - URL-based state management for shareable search results<br>
+        - Real-time filtering and sorting capabilities<br>
+        - Responsive design with modern UI components<br>
+        - Efficient data handling with loading states<br><br>
+        <strong>Technical stack:</strong><br>
+        - React 19<br>
+        - TypeScript<br>
+        - React Router<br>
+        - Bulma CSS<br>
+        - Font Awesome<br>
+        - GitHub Pages
+      </td>
+    </tr>
+  </table>
 </div>
