@@ -34,8 +34,8 @@ export const getWorksList = (data) => {
     result += "| :---: | :---: |\n";
     result += `| [<img src="${oneWork.imageLink}" alt="${oneWork.title}" width="${workSize}" height="${workSize}" />](${oneWork.demoLink}) |`;
     result += `<div>`;
-    result += `<a href="${oneWork.demoLink}" target="_blank"><img src="./images/buttons/demo-link.webp" alt="Demo Link" width="${buttonWidth}" height="${buttonHeight}"/></a> `;
-    result += `<a href="${oneWork.repoLink}" target="_blank"><img src="./images/buttons/repo-link.webp" alt="Repo Link" width="${buttonWidth}" height="${buttonHeight}"/></a> `;
+    result += `[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="${buttonWidth}" height="${buttonHeight}"/>](${oneWork.demoLink}) `;
+    result += `[<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="${buttonWidth}" height="${buttonHeight}"/>](${oneWork.repoLink}) `;
     result += `</div> |\n`;
 
     result += "\n";
