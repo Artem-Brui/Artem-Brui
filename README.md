@@ -45,8 +45,8 @@
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem;">
   <table style="min-width: 100%;">
     <tr>
-      <td width="40%" align="center">
-        <img src="./images/works/people-app.webp" alt="People App" width="200" height="200" title="People App"/>
+      <td style="min-width: 200px" align="center">
+        <img src="./images/works/people-app.webp" alt="People App" width="100%" height="100%" title="People App"/>
         <br>
         <br>
         <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
@@ -54,12 +54,12 @@
             <tr>
               <td>
                 <a href="https://github.com/Artem-Brui/People-App" target="_blank">
-                  <img src="./img/link-repo.webp" alt="Link to Repo" width="200" height="50"/>
+                  <img src="./images/buttons/repo-link.webp" alt="Link to Repo" width="100%" height="30%"/>
                 </a>
               </td>
               <td>
                 <a href="https://artem-brui.github.io/People-App/#/people" target="_blank">
-                  <img src="./img/link-demo.webp" alt="Link to DEMO" width="200" height="50"/>
+                  <img src="./images/buttons/demo-link.webp" alt="Link to Repo" width="100%" height="30%"/>
                 </a>
               </td>
             </tr>

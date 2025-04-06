@@ -5,6 +5,9 @@ function generateMarkdown() {
   let markdown = `# ${data.title}\n\n`;
 
   const skillsSize = 45;
+  const workSize = '100%';
+  const buttonWidth = '100%';
+  const buttonHeight = '30%';
 
   const getSkillsList = (field) => {
     let result = "";
@@ -42,47 +45,10 @@ function generateMarkdown() {
   // Tech Stack
   markdown += "## Tech Stack\n\n";
   markdown += '<div align="center">\n\n';
-
   markdown += getSkillsList('frontend');
   markdown += getSkillsList('backend');
   markdown += getSkillsList('marketing');
   markdown += getSkillsList('content');
-  // Frontend
-  // markdown += `### ${data.techStack.frontend.title}\n`;
-  // markdown +=
-  //   "|" +
-  //   data.techStack.frontend.skills.map((tech) => ` ${tech.name} `).join("|") +
-  //   "|\n";
-  // markdown +=
-  //   "|" + data.techStack.frontend.skills.map(() => " :---: ").join("|") + "|\n";
-  // markdown +=
-  //   "|" +
-  //   data.techStack.frontend.skills
-  //     .map(
-  //       (tech) =>
-  //         ` <img src="${tech.icon}" alt="${tech.name}" width="${skillsSize}" height="${skillsSize}" title="${tech.name}"/> `
-  //     )
-  //     .join("|") +
-  //   "|\n\n";
-
-  // // Backend
-  // markdown += `### ${data.techStack.backend.title}\n`;
-  // markdown +=
-  //   "|" +
-  //   data.techStack.backend.skills.map((tech) => ` ${tech.name} `).join("|") +
-  //   "|\n";
-  // markdown +=
-  //   "|" + data.techStack.backend.skills.map(() => " :---: ").join("|") + "|\n";
-  // markdown +=
-  //   "|" +
-  //   data.techStack.backend.skills
-  //     .map(
-  //       (tech) =>
-  //         ` <img src="${tech.icon}" alt="${tech.name}" width="${skillsSize}" height="${skillsSize}" title="${tech.name}"/> `
-  //     )
-  //     .join("|") +
-  //   "|\n\n";
-
   markdown += "</div>\n\n";
 
   // Works section
@@ -94,8 +60,8 @@ function generateMarkdown() {
       '<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem;">\n';
     markdown += '  <table style="min-width: 100%;">\n';
     markdown += "    <tr>\n";
-    markdown += '      <td width="40%" align="center">\n';
-    markdown += `        <img src="${work.image}" alt="${work.title}" width="200" height="200" title="${work.title}"/>\n`;
+    markdown += '      <td style="min-width: 200px" align="center">\n';
+    markdown += `        <img src="${work.image}" alt="${work.title}" width="${workSize}" height="${workSize}" title="${work.title}"/>\n`;
     markdown += "        <br>\n";
     markdown += "        <br>\n";
     markdown +=
@@ -105,13 +71,13 @@ function generateMarkdown() {
     markdown += "              <td>\n";
     markdown += `                <a href="${work.repoLink}" target="_blank">\n`;
     markdown +=
-      '                  <img src="./img/link-repo.webp" alt="Link to Repo" width="200" height="50"/>\n';
+      `                  <img src="./images/buttons/repo-link.webp" alt="Link to Repo" width="${buttonWidth}" height="${buttonHeight}"/>\n`;
     markdown += "                </a>\n";
     markdown += "              </td>\n";
     markdown += "              <td>\n";
     markdown += `                <a href="${work.demoLink}" target="_blank">\n`;
     markdown +=
-      '                  <img src="./img/link-demo.webp" alt="Link to DEMO" width="200" height="50"/>\n';
+      `                  <img src="./images/buttons/demo-link.webp" alt="Link to Repo" width="${buttonWidth}" height="${buttonHeight}"/>\n`;
     markdown += "                </a>\n";
     markdown += "              </td>\n";
     markdown += "            </tr>\n";
