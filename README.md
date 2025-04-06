@@ -43,9 +43,9 @@
 <h3>People App</h3>
 
 <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem;">
-  <table style="min-width: 100%;">
+  <table>
     <tr>
-      <td style="min-width: 200px" align="center">
+      <td style="width: 200px" align="center">
         <img src="./images/works/people-app.webp" alt="People App" width="100%" height="100%" title="People App"/>
         <br>
         <br>

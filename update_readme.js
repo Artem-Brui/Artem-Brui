@@ -58,9 +58,9 @@ function generateMarkdown() {
     markdown += `<h3>${work.title}</h3>\n\n`;
     markdown +=
       '<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem;">\n';
-    markdown += '  <table style="min-width: 100%;">\n';
+    markdown += '  <table>\n';
     markdown += "    <tr>\n";
-    markdown += '      <td style="min-width: 200px" align="center">\n';
+    markdown += '      <td style="width: 200px" align="center">\n';
     markdown += `        <img src="${work.image}" alt="${work.title}" width="${workSize}" height="${workSize}" title="${work.title}"/>\n`;
     markdown += "        <br>\n";
     markdown += "        <br>\n";
