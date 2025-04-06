@@ -118,17 +118,17 @@ export const data = {
       demoLink: "https://artem-brui.github.io/People-App/#/people",
     },
     {
-      title: "People App",
-      imageLink: "./images/works/people-app.webp",
+      title: "Todo App",
+      imageLink: "./images/works/todo-app.webp",
       lists: [
         {
           title: "Key Features",
           list: [
-            "Advanced search with multiple parameters (name, parents, gender, century)",
-            "URL-based state management for shareable search results",
-            "Real-time filtering and sorting capabilities",
-            "Responsive design with modern UI components",
-            "Efficient data handling with loading states",
+            'Full CRUD operations for todos (Create, Read, Update, Delete)',
+            'Local storage persistence for data management',
+            'Bulk actions (complete all, clear completed)',
+            'Real-time filtering',
+            'Mobile-responsive design',
           ],
         },
         {
@@ -136,15 +136,16 @@ export const data = {
           list: [
             "React 19",
             "TypeScript",
-            "React Router",
+            "LocalStorage",
+            "SASS",
             "Bulma CSS",
             "Font Awesome",
-            "GitHub Pages",
+            "Context API",
           ],
         },
       ],
-      repoLink: "https://github.com/Artem-Brui/People-App",
-      demoLink: "https://artem-brui.github.io/People-App/#/people",
+      repoLink: "https://github.com/Artem-Brui/Todo-App",
+      demoLink: "https://artem-brui.github.io/Todo-App/",
     },
   ],
 };
