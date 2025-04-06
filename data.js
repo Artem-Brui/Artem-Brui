@@ -13,27 +13,55 @@ export const data = {
     },
   },
   techStack: {
-    frontend: [
-      { name: "HTML", icon: "./images/skills/html.jpg" },
-      { name: "CSS", icon: "./images/skills/css.png" },
-      { name: "SASS", icon: "./images/skills/sass.jpg" },
-      { name: "Bootstrap", icon: "./images/skills/bootstrap.png" },
-      { name: "Tailwind", icon: "./images/skills/tailwind.webp" },
-      { name: "Bulma", icon: "./images/skills/bulma.png" },
-      { name: "Figma", icon: "./images/skills/figma.png" },
-      { name: "JavaScript", icon: "./images/skills/javascript.png" },
-      { name: "TypeScript", icon: "./images/skills/typescript.png" },
-    ],
-    backend: [
-      { name: "React", icon: "./images/skills/react.png" },
-      { name: "Context API", icon: "./images/skills/context-api.webp" },
-      { name: "REST API", icon: "./images/skills/rest-api.webp" },
-      { name: "Redux", icon: "./images/skills/redux.png" },
-      { name: "Express", icon: "./images/skills/express.png" },
-      { name: "MongoDB", icon: "./images/skills/mongodb.png" },
-      { name: "Socket.io", icon: "./images/skills/socket.webp" },
-      { name: "Git", icon: "./images/skills/git.png" },
-    ],
+    frontend: {
+      title: 'Layout Design',
+      skills: [
+        { name: "HTML", icon: "./images/skills/layout/html.jpg" },
+        { name: "CSS", icon: "./images/skills/layout/css.png" },
+        { name: "SASS", icon: "./images/skills/layout/sass.jpg" },
+        { name: "Bootstrap", icon: "./images/skills/layout/bootstrap.png" },
+        { name: "Tailwind", icon: "./images/skills/layout/tailwind.webp" },
+        { name: "Bulma", icon: "./images/skills/layout/bulma.png" },
+        { name: "Figma", icon: "./images/skills/layout/figma.png" },
+      ]
+    } ,
+    frontend: {
+      title: 'Frontend Development',
+      skills: [
+        { name: "JavaScript", icon: "./images/skills/frontend/javascript.png" },
+        { name: "TypeScript", icon: "./images/skills/frontend/typescript.png" },
+        { name: "React", icon: "./images/skills/frontend/react.png" },
+        { name: "Context API", icon: "./images/skills/frontend/context-api.webp" },
+        { name: "Redux", icon: "./images/skills/frontend/redux.png" },
+        { name: "Git", icon: "./images/skills/frontend/git.png" },
+      ]
+    } ,
+    backend: {
+      title: 'Backend Development',
+      skills: [
+        { name: "Express", icon: "./images/skills/backend/express.png" },
+        { name: "MongoDB", icon: "./images/skills/backend/mongodb.png" },
+        { name: "Socket.io", icon: "./images/skills/backend/socket.webp" },
+        { name: "REST API", icon: "./images/skills/backend/rest-api.webp" },
+      ]
+    } ,
+    marketing: {
+      title: 'Performance Marketing',
+      skills: [
+      { name: "Google Ads", icon: "./images/skills/marketing/google-ads.webp" },
+      { name: "Facebook Ads", icon: "./images/skills/marketing/facebook-ads.webp" },
+      { name: "Google Analytics", icon: "./images/skills/marketing/google-analytics.webp" },
+      { name: "Google Tag Manager", icon: "./images/skills/marketing/google-tag-manager.webp" },
+      { name: "Facebook API", icon: "./images/skills/marketing/facebook-api.webp" },
+      ]
+    },
+    content: {
+      title: 'Content Creation',
+      skills: [
+      { name: "Adobe Photoshop", icon: "./images/skills/content/photoshop.png" },
+      { name: "Adobe Premiere", icon: "./images/skills/content/premiere.png" },
+      ]
+    } ,
   },
   works: [
     {
