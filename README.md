@@ -48,7 +48,7 @@
 ### People App-1
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/people-app.webp" alt="People App-1" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://github.com/Artem-Brui/People-App) </div> |
+| [<img src="./images/works/people-app.webp" alt="People App-1" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/People-App) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
@@ -59,7 +59,7 @@
 ### Todo App
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/todo-app.webp" alt="Todo App" width="200px" height="200px" />](https://artem-brui.github.io/Todo-App/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://artem-brui.github.io/Todo-App/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://github.com/Artem-Brui/Todo-App) </div> |
+| [<img src="./images/works/todo-app.webp" alt="Todo App" width="200px" height="200px" />](https://artem-brui.github.io/Todo-App/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Todo-App/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Todo-App) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |

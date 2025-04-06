@@ -24,8 +24,8 @@ export const getSkillsList = (data, field) => {
 
 export const getWorksList = (data) => {
   const workSize = "200px";
-  const buttonWidth = "90px";
-  const buttonHeight = "30px";
+  const buttonWidth = "120px";
+  const buttonHeight = "50px";
   let result = "";
 
   data.works.map((oneWork) => {
