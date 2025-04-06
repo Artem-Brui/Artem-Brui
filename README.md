@@ -39,48 +39,26 @@
 
 ## My Works
 
-<div align=center>
-<h3>People App</h3>
 
-<div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch; margin: 0 -1rem; padding: 0 1rem;">
-  <table>
-    <tr>
-      <td style="width: 200px" align="center">
-        <img src="./images/works/people-app.webp" alt="People App" width="100%" height="100%" title="People App"/>
-        <br>
-        <br>
-        <div style="overflow-x: auto; white-space: nowrap; -webkit-overflow-scrolling: touch;">
-          <table style="min-width: 100%;">
-            <tr>
-              <td>
-                <a href="https://github.com/Artem-Brui/People-App" target="_blank">
-                  <img src="./images/buttons/repo-link.webp" alt="Link to Repo" width="100%" height="30%"/>
-                </a>
-              </td>
-              <td>
-                <a href="https://artem-brui.github.io/People-App/#/people" target="_blank">
-                  <img src="./images/buttons/demo-link.webp" alt="Link to Repo" width="100%" height="30%"/>
-                </a>
-              </td>
-            </tr>
-          </table>
-        </div>
-      </td>
-      <td align="left"><br>        <strong>Key features:</strong><br>
-- Advanced search with multiple parameters (name, parents, gender, century)<br>
-- URL-based state management for shareable search results<br>
-- Real-time filtering and sorting capabilities<br>
-- Responsive design with modern UI components<br>
-- Efficient data handling with loading states<br>
-<br>        <strong>Technical stack:</strong><br>
-- React 19<br>
-- TypeScript<br>
-- React Router<br>
-- Bulma CSS<br>
-- Font Awesome<br>
-- GitHub Pages<br>
-      </td>
-    </tr>
-  </table>
-</div>
-</div>
+### People App-1
+| Demo | Links |
+| :---: | :---: |
+| [<img src="./images/works/people-app.webp" alt="People App-1" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://github.com/Artem-Brui/People-App) </div> |
+
+| Key Features | Technical Stack |
+| :---: | :---: |
+|<div align="left">- Advanced search with multiple parameters (name, parents, gender, century)<br>- URL-based state management for shareable search results<br>- Real-time filtering and sorting capabilities<br>- Responsive design with modern UI components<br>- Efficient data handling with loading states<br></div>|<div align="left">- React 19<br>- TypeScript<br>- React Router<br>- Bulma CSS<br>- Font Awesome<br>- GitHub Pages<br></div>|
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+### People App
+| Demo | Links |
+| :---: | :---: |
+| [<img src="./images/works/people-app.webp" alt="People App" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="90px" height="30px"/>](https://github.com/Artem-Brui/People-App) </div> |
+
+| Key Features | Technical Stack |
+| :---: | :---: |
+|<div align="left">- Advanced search with multiple parameters (name, parents, gender, century)<br>- URL-based state management for shareable search results<br>- Real-time filtering and sorting capabilities<br>- Responsive design with modern UI components<br>- Efficient data handling with loading states<br></div>|<div align="left">- React 19<br>- TypeScript<br>- React Router<br>- Bulma CSS<br>- Font Awesome<br>- GitHub Pages<br></div>|
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 
