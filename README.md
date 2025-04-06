@@ -15,6 +15,11 @@
 
 <div align="center">
 
+### Layout Design
+| HTML | CSS | SASS | Bootstrap | Tailwind | Bulma | Figma |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="./images/skills/layout/html.jpg" alt="HTML" width="45" height="45" title="HTML"/> | <img src="./images/skills/layout/css.png" alt="CSS" width="45" height="45" title="CSS"/> | <img src="./images/skills/layout/sass.jpg" alt="SASS" width="45" height="45" title="SASS"/> | <img src="./images/skills/layout/bootstrap.png" alt="Bootstrap" width="45" height="45" title="Bootstrap"/> | <img src="./images/skills/layout/tailwind.webp" alt="Tailwind" width="45" height="45" title="Tailwind"/> | <img src="./images/skills/layout/bulma.png" alt="Bulma" width="45" height="45" title="Bulma"/> | <img src="./images/skills/layout/figma.png" alt="Figma" width="45" height="45" title="Figma"/> |
+
 ### Frontend Development
 | JavaScript | TypeScript | React | Context API | Redux | Git |
 | :---: | :---: | :---: | :---: | :---: | :---: |

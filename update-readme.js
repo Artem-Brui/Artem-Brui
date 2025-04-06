@@ -16,6 +16,7 @@ function generateMarkdown() {
   // Tech Stack
   markdown += "## Tech Stack\n\n";
   markdown += '<div align="center">\n\n';
+  markdown += getSkillsList(data, 'layout');
   markdown += getSkillsList(data, 'frontend');
   markdown += getSkillsList(data, 'backend');
   markdown += getSkillsList(data, 'marketing');

@@ -13,7 +13,7 @@ export const data = {
     },
   },
   techStack: {
-    frontend: {
+    layout: {
       title: "Layout Design",
       skills: [
         { name: "HTML", icon: "./images/skills/layout/html.jpg" },
