@@ -90,7 +90,7 @@ export const data = {
   works: {
     peopleApp: {
       title: "People App",
-      descreption: "Context API, React Router, UrlSearchParams",
+      focus: "React, Context API, React Router, UrlSearchParams",
       imageLink: "./images/works/people-app.webp",
       lists: [
         {
@@ -122,17 +122,17 @@ export const data = {
     },
     todoApp: {
       title: "Todo App",
-      descreption: "Context API, React Router, Local Storage",
+      focus: "React, Context API, React Router, Local Storage",
       imageLink: "./images/works/todo-app.webp",
       lists: [
         {
           title: "Key Features",
           list: [
-            'Full CRUD operations for todos (Create, Read, Update, Delete)',
-            'Local storage persistence for data management',
-            'Bulk actions (complete all, clear completed)',
-            'Real-time filtering',
-            'Mobile-responsive design',
+            "Full CRUD operations for todos (Create, Read, Update, Delete)",
+            "Local storage persistence for data management",
+            "Bulk actions (complete all, clear completed)",
+            "Real-time filtering",
+            "Mobile-responsive design",
           ],
         },
         {
@@ -152,71 +152,63 @@ export const data = {
       repoLink: "https://github.com/Artem-Brui/Todo-App",
       demoLink: "https://artem-brui.github.io/Todo-App/",
     },
-},
-  works: [
-    {
-      title: "People App",
-      descreption: "Context API, React Router, UrlSearchParams",
-      imageLink: "./images/works/people-app.webp",
+    game2048: {
+      title: "Game 2048",
+      focus: "JavaScript, SASS, Local Storage",
+      imageLink: "./images/works/game-2048.webp",
       lists: [
         {
           title: "Key Features",
           list: [
-            "Advanced search with multiple parameters (name, parents, gender, century)",
-            "URL-based state management for shareable search results",
-            "Real-time filtering and sorting capabilities",
-            "Responsive design with modern UI components",
-            "Efficient data handling with loading states",
+            "Smooth tile movement and merging",
+            "Random tile generation (2 or 4)",
+            "Score tracking (saving in Local Storage)",
+            "Win/lose conditions",
+            "Keyboard arrow keys support",
+            "Touch swipe support for mobile",
+            "Responsive design for all devices",
           ],
         },
         {
           title: "Technical Stack",
           list: [
-            "React 19",
-            "TypeScript",
-            "React Router",
-            "Context API",
-            "UrlSearchParams",
-            "Bulma CSS",
-            "Font Awesome",
+            "HTML5",
+            "CSS / SASS",
+            "JavaScript",
+            "Local Storage",
             "GitHub Pages",
           ],
         },
       ],
-      repoLink: "https://github.com/Artem-Brui/People-App",
-      demoLink: "https://artem-brui.github.io/People-App/#/people",
+      repoLink: "https://github.com/Artem-Brui/Game-2048",
+      demoLink: "https://artem-brui.github.io/Game-2048/",
     },
-    {
-      title: "Todo App",
-      descreption: "Context API, React Router, Local Storage",
-      imageLink: "./images/works/todo-app.webp",
+    landingMET: {
+      title: "MET Landing Page",
+      focus: "HTML, SASS",
+      imageLink: "./images/works/met-landing.webp",
       lists: [
         {
           title: "Key Features",
           list: [
-            'Full CRUD operations for todos (Create, Read, Update, Delete)',
-            'Local storage persistence for data management',
-            'Bulk actions (complete all, clear completed)',
-            'Real-time filtering',
-            'Mobile-responsive design',
+            "Adapts seamlessly to different screen sizes and devices",
+            "Implementation of Header functionality without JavaScript",
+            "Modern aesthetics with contemporary design principles",
+            "Engaging components to enhance user experience",
+            "Smooth animations and transitions",
           ],
         },
         {
           title: "Technical Stack",
           list: [
-            "React 19",
-            "TypeScript",
-            "Context API",
-            "LocalStorage",
-            "SASS",
-            "Bulma CSS",
-            "Font Awesome",
-            "Context API",
+            "HTML5",
+            "CSS / SASS",
+            "GitHub Pages",
           ],
         },
       ],
-      repoLink: "https://github.com/Artem-Brui/Todo-App",
-      demoLink: "https://artem-brui.github.io/Todo-App/",
+      repoLink: "https://github.com/Artem-Brui/MET-Landing-page",
+      demoLink: "https://artem-brui.github.io/MET-Landing-page/",
     },
-  ],
+  },
 };

@@ -46,7 +46,7 @@
 
 
 ### --- People App
-#### TECH FOCUS: Context API, React Router, UrlSearchParams
+#### TECH FOCUS: React, Context API, React Router, UrlSearchParams
 | Demo | Links |
 | :---: | :---: |
 | [<img src="./images/works/people-app.webp" alt="People App" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/People-App) </div> |
@@ -58,7 +58,7 @@
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
 ### --- Todo App
-#### TECH FOCUS: Context API, React Router, Local Storage
+#### TECH FOCUS: React, Context API, React Router, Local Storage
 | Demo | Links |
 | :---: | :---: |
 | [<img src="./images/works/todo-app.webp" alt="Todo App" width="200px" height="200px" />](https://artem-brui.github.io/Todo-App/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Todo-App/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Todo-App) </div> |
@@ -66,6 +66,30 @@
 | Key Features | Technical Stack |
 | :---: | :---: |
 |<div align="left">- Full CRUD operations for todos (Create, Read, Update, Delete)<br>- Local storage persistence for data management<br>- Bulk actions (complete all, clear completed)<br>- Real-time filtering<br>- Mobile-responsive design<br></div>|<div align="left">- React 19<br>- TypeScript<br>- Context API<br>- LocalStorage<br>- SASS<br>- Bulma CSS<br>- Font Awesome<br>- Context API<br></div>|
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+### --- Game 2048
+#### TECH FOCUS: JavaScript, SASS, Local Storage
+| Demo | Links |
+| :---: | :---: |
+| [<img src="./images/works/game-2048.webp" alt="Game 2048" width="200px" height="200px" />](https://artem-brui.github.io/Game-2048/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Game-2048/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Game-2048) </div> |
+
+| Key Features | Technical Stack |
+| :---: | :---: |
+|<div align="left">- Smooth tile movement and merging<br>- Random tile generation (2 or 4)<br>- Score tracking (saving in Local Storage)<br>- Win/lose conditions<br>- Keyboard arrow keys support<br>- Touch swipe support for mobile<br>- Responsive design for all devices<br></div>|<div align="left">- HTML5<br>- CSS / SASS<br>- JavaScript<br>- Local Storage<br>- GitHub Pages<br></div>|
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+### --- MET Landing Page
+#### TECH FOCUS: HTML, SASS
+| Demo | Links |
+| :---: | :---: |
+| [<img src="./images/works/met-landing.webp" alt="MET Landing Page" width="200px" height="200px" />](https://artem-brui.github.io/MET-Landing-page/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/MET-Landing-page/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/MET-Landing-page) </div> |
+
+| Key Features | Technical Stack |
+| :---: | :---: |
+|<div align="left">- Adapts seamlessly to different screen sizes and devices<br>- Implementation of Header functionality without JavaScript<br>- Modern aesthetics with contemporary design principles<br>- Engaging components to enhance user experience<br>- Smooth animations and transitions<br></div>|<div align="left">- HTML5<br>- CSS / SASS<br>- GitHub Pages<br></div>|
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 

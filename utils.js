@@ -30,7 +30,7 @@ export const getWorksList = (data) => {
 
   Object.values(data.works).map((oneWork) => {
     result += `\n### --- ${oneWork.title}`;
-    result += `\n#### TECH FOCUS: ${oneWork.descreption}\n`;
+    result += `\n#### TECH FOCUS: ${oneWork.focus}\n`;
     result += "| Demo | Links |\n";
     result += "| :---: | :---: |\n";
     result += `| [<img src="${oneWork.imageLink}" alt="${oneWork.title}" width="${workSize}" height="${workSize}" />](${oneWork.demoLink}) |`;
