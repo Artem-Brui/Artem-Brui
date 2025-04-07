@@ -28,7 +28,7 @@ export const getWorksList = (data) => {
   const buttonHeight = "50px";
   let result = "";
 
-  data.works.map((oneWork) => {
+  Object.values(data.works).map((oneWork) => {
     result += `\n### --- ${oneWork.title}`;
     result += `\n#### TECH FOCUS: ${oneWork.descreption}\n`;
     result += "| Demo | Links |\n";

@@ -87,6 +87,72 @@ export const data = {
       ],
     },
   },
+  works: {
+    peopleApp: {
+      title: "People App",
+      descreption: "Context API, React Router, UrlSearchParams",
+      imageLink: "./images/works/people-app.webp",
+      lists: [
+        {
+          title: "Key Features",
+          list: [
+            "Advanced search with multiple parameters (name, parents, gender, century)",
+            "URL-based state management for shareable search results",
+            "Real-time filtering and sorting capabilities",
+            "Responsive design with modern UI components",
+            "Efficient data handling with loading states",
+          ],
+        },
+        {
+          title: "Technical Stack",
+          list: [
+            "React 19",
+            "TypeScript",
+            "React Router",
+            "Context API",
+            "UrlSearchParams",
+            "Bulma CSS",
+            "Font Awesome",
+            "GitHub Pages",
+          ],
+        },
+      ],
+      repoLink: "https://github.com/Artem-Brui/People-App",
+      demoLink: "https://artem-brui.github.io/People-App/#/people",
+    },
+    todoApp: {
+      title: "Todo App",
+      descreption: "Context API, React Router, Local Storage",
+      imageLink: "./images/works/todo-app.webp",
+      lists: [
+        {
+          title: "Key Features",
+          list: [
+            'Full CRUD operations for todos (Create, Read, Update, Delete)',
+            'Local storage persistence for data management',
+            'Bulk actions (complete all, clear completed)',
+            'Real-time filtering',
+            'Mobile-responsive design',
+          ],
+        },
+        {
+          title: "Technical Stack",
+          list: [
+            "React 19",
+            "TypeScript",
+            "Context API",
+            "LocalStorage",
+            "SASS",
+            "Bulma CSS",
+            "Font Awesome",
+            "Context API",
+          ],
+        },
+      ],
+      repoLink: "https://github.com/Artem-Brui/Todo-App",
+      demoLink: "https://artem-brui.github.io/Todo-App/",
+    },
+},
   works: [
     {
       title: "People App",
