@@ -45,25 +45,27 @@
 ## My Works
 
 
-### People App-1
+### --- People App
+#### TECH FOCUS: Context API, React Router, UrlSearchParams
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/people-app.webp" alt="People App-1" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/People-App) </div> |
+| [<img src="./images/works/people-app.webp" alt="People App" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/People-App) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
-|<div align="left">- Advanced search with multiple parameters (name, parents, gender, century)<br>- URL-based state management for shareable search results<br>- Real-time filtering and sorting capabilities<br>- Responsive design with modern UI components<br>- Efficient data handling with loading states<br></div>|<div align="left">- React 19<br>- TypeScript<br>- React Router<br>- Bulma CSS<br>- Font Awesome<br>- GitHub Pages<br></div>|
+|<div align="left">- Advanced search with multiple parameters (name, parents, gender, century)<br>- URL-based state management for shareable search results<br>- Real-time filtering and sorting capabilities<br>- Responsive design with modern UI components<br>- Efficient data handling with loading states<br></div>|<div align="left">- React 19<br>- TypeScript<br>- React Router<br>- Context API<br>- UrlSearchParams<br>- Bulma CSS<br>- Font Awesome<br>- GitHub Pages<br></div>|
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
-### Todo App
+### --- Todo App
+#### TECH FOCUS: Context API, React Router, Local Storage
 | Demo | Links |
 | :---: | :---: |
 | [<img src="./images/works/todo-app.webp" alt="Todo App" width="200px" height="200px" />](https://artem-brui.github.io/Todo-App/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Todo-App/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Todo-App) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
-|<div align="left">- Full CRUD operations for todos (Create, Read, Update, Delete)<br>- Local storage persistence for data management<br>- Bulk actions (complete all, clear completed)<br>- Real-time filtering<br>- Mobile-responsive design<br></div>|<div align="left">- React 19<br>- TypeScript<br>- LocalStorage<br>- SASS<br>- Bulma CSS<br>- Font Awesome<br>- Context API<br></div>|
+|<div align="left">- Full CRUD operations for todos (Create, Read, Update, Delete)<br>- Local storage persistence for data management<br>- Bulk actions (complete all, clear completed)<br>- Real-time filtering<br>- Mobile-responsive design<br></div>|<div align="left">- React 19<br>- TypeScript<br>- Context API<br>- LocalStorage<br>- SASS<br>- Bulma CSS<br>- Font Awesome<br>- Context API<br></div>|
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 

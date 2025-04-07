@@ -89,7 +89,8 @@ export const data = {
   },
   works: [
     {
-      title: "People App-1",
+      title: "People App",
+      descreption: "Context API, React Router, UrlSearchParams",
       imageLink: "./images/works/people-app.webp",
       lists: [
         {
@@ -108,6 +109,8 @@ export const data = {
             "React 19",
             "TypeScript",
             "React Router",
+            "Context API",
+            "UrlSearchParams",
             "Bulma CSS",
             "Font Awesome",
             "GitHub Pages",
@@ -119,6 +122,7 @@ export const data = {
     },
     {
       title: "Todo App",
+      descreption: "Context API, React Router, Local Storage",
       imageLink: "./images/works/todo-app.webp",
       lists: [
         {
@@ -136,6 +140,7 @@ export const data = {
           list: [
             "React 19",
             "TypeScript",
+            "Context API",
             "LocalStorage",
             "SASS",
             "Bulma CSS",

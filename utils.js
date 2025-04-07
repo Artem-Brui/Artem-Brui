@@ -29,7 +29,8 @@ export const getWorksList = (data) => {
   let result = "";
 
   data.works.map((oneWork) => {
-    result += `\n### ${oneWork.title}\n`;
+    result += `\n### --- ${oneWork.title}`;
+    result += `\n#### TECH FOCUS: ${oneWork.descreption}\n`;
     result += "| Demo | Links |\n";
     result += "| :---: | :---: |\n";
     result += `| [<img src="${oneWork.imageLink}" alt="${oneWork.title}" width="${workSize}" height="${workSize}" />](${oneWork.demoLink}) |`;
