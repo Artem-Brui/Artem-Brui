@@ -65,7 +65,19 @@
 
 | Key Features | Technical Stack |
 | :---: | :---: |
-|<div align="left">- Full CRUD operations for todos (Create, Read, Update, Delete)<br>- Local storage persistence for data management<br>- Bulk actions (complete all, clear completed)<br>- Real-time filtering<br>- Mobile-responsive design<br></div>|<div align="left">- React 19<br>- TypeScript<br>- Context API<br>- LocalStorage<br>- SASS<br>- Bulma CSS<br>- Font Awesome<br>- Context API<br></div>|
+|<div align="left">- Full CRUD operations for todos (Create, Read, Update, Delete)<br>- Local storage persistence for data management<br>- Bulk actions (complete all, clear completed)<br>- Real-time filtering<br>- Mobile-responsive design<br></div>|<div align="left">- React 19<br>- TypeScript<br>- Context API<br>- LocalStorage<br>- SASS<br>- Bulma CSS<br>- Font Awesome<br></div>|
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 
+### --- Pagination
+#### TECH FOCUS: React, Pagination Solution
+| Demo | Links |
+| :---: | :---: |
+| [<img src="./images/works/pagination.webp" alt="Pagination" width="200px" height="200px" />](https://artem-brui.github.io/Items-Pagination/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Items-Pagination/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Items-Pagination) </div> |
+
+| Key Features | Technical Stack |
+| :---: | :---: |
+|<div align="left">- Adjust number of items per page (3, 5, 10, 20)<br>- Navigate through pages with intuitive controls<br>- Display current page and item range<br>- Responsive pagination component<br>- Clean and intuitive interface using Bootstrap 5<br></div>|<div align="left">- React 19<br>- TypeScript<br>- Bootstrap 5<br></div>|
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 

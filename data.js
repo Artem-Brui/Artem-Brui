@@ -145,12 +145,38 @@ export const data = {
             "SASS",
             "Bulma CSS",
             "Font Awesome",
-            "Context API",
           ],
         },
       ],
       repoLink: "https://github.com/Artem-Brui/Todo-App",
       demoLink: "https://artem-brui.github.io/Todo-App/",
+    },
+    pagination: {
+      title: "Pagination",
+      focus: "React, Pagination Solution",
+      imageLink: "./images/works/pagination.webp",
+      lists: [
+        {
+          title: "Key Features",
+          list: [
+            "Adjust number of items per page (3, 5, 10, 20)",
+            "Navigate through pages with intuitive controls",
+            "Display current page and item range",
+            "Responsive pagination component",
+            "Clean and intuitive interface using Bootstrap 5",
+          ],
+        },
+        {
+          title: "Technical Stack",
+          list: [
+            "React 19",
+            "TypeScript",
+            "Bootstrap 5",
+          ],
+        },
+      ],
+      repoLink: "https://github.com/Artem-Brui/Items-Pagination",
+      demoLink: "https://artem-brui.github.io/Items-Pagination/",
     },
     game2048: {
       title: "Game 2048",
