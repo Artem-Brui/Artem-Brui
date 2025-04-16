@@ -57,11 +57,11 @@
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
-### --- People App
+### --- People App (Frontend only)
 #### TECH FOCUS: React, Context API, React Router, UrlSearchParams
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/people-app.webp" alt="People App" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/People-App) </div> |
+| [<img src="./images/works/people-app.webp" alt="People App (Frontend only)" width="200px" height="200px" />](https://artem-brui.github.io/People-App/#/people) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/People-App/#/people) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/People-App) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
@@ -69,11 +69,11 @@
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
-### --- Todo App
+### --- Todo App (Frontend only)
 #### TECH FOCUS: React, Context API, React Router, Local Storage
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/todo-app.webp" alt="Todo App" width="200px" height="200px" />](https://artem-brui.github.io/Todo-App/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Todo-App/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Todo-App) </div> |
+| [<img src="./images/works/todo-app.webp" alt="Todo App (Frontend only)" width="200px" height="200px" />](https://artem-brui.github.io/Todo-App/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Todo-App/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Todo-App) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
@@ -81,11 +81,11 @@
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
-### --- Pagination
+### --- Pagination (Frontend only)
 #### TECH FOCUS: React, Pagination Solution
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/pagination.webp" alt="Pagination" width="200px" height="200px" />](https://artem-brui.github.io/Items-Pagination/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Items-Pagination/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Items-Pagination) </div> |
+| [<img src="./images/works/pagination.webp" alt="Pagination (Frontend only)" width="200px" height="200px" />](https://artem-brui.github.io/Items-Pagination/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Items-Pagination/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Items-Pagination) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
@@ -93,11 +93,11 @@
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
-### --- Game 2048
+### --- Game 2048 (Frontend only)
 #### TECH FOCUS: JavaScript, SASS, Local Storage
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/game-2048.webp" alt="Game 2048" width="200px" height="200px" />](https://artem-brui.github.io/Game-2048/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Game-2048/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Game-2048) </div> |
+| [<img src="./images/works/game-2048.webp" alt="Game 2048 (Frontend only)" width="200px" height="200px" />](https://artem-brui.github.io/Game-2048/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/Game-2048/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Game-2048) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
@@ -105,11 +105,11 @@
 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . 
-### --- MET Landing Page
+### --- MET Landing Page (Frontend only)
 #### TECH FOCUS: HTML, SASS
 | Demo | Links |
 | :---: | :---: |
-| [<img src="./images/works/met-landing.webp" alt="MET Landing Page" width="200px" height="200px" />](https://artem-brui.github.io/MET-Landing-page/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/MET-Landing-page/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/MET-Landing-page) </div> |
+| [<img src="./images/works/met-landing.webp" alt="MET Landing Page (Frontend only)" width="200px" height="200px" />](https://artem-brui.github.io/MET-Landing-page/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://artem-brui.github.io/MET-Landing-page/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/MET-Landing-page) </div> |
 
 | Key Features | Technical Stack |
 | :---: | :---: |
