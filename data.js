@@ -134,7 +134,7 @@ export const data = {
       demoLink: "https://books-table.onrender.com/",
     },
     peopleApp: {
-      title: "People App",
+      title: "People App (Frontend only)",
       focus: "React, Context API, React Router, UrlSearchParams",
       imageLink: "./images/works/people-app.webp",
       lists: [
@@ -166,7 +166,7 @@ export const data = {
       demoLink: "https://artem-brui.github.io/People-App/#/people",
     },
     todoApp: {
-      title: "Todo App",
+      title: "Todo App (Frontend only)",
       focus: "React, Context API, React Router, Local Storage",
       imageLink: "./images/works/todo-app.webp",
       lists: [
@@ -197,7 +197,7 @@ export const data = {
       demoLink: "https://artem-brui.github.io/Todo-App/",
     },
     pagination: {
-      title: "Pagination",
+      title: "Pagination (Frontend only)",
       focus: "React, Pagination Solution",
       imageLink: "./images/works/pagination.webp",
       lists: [
@@ -220,7 +220,7 @@ export const data = {
       demoLink: "https://artem-brui.github.io/Items-Pagination/",
     },
     game2048: {
-      title: "Game 2048",
+      title: "Game 2048 (Frontend only)",
       focus: "JavaScript, SASS, Local Storage",
       imageLink: "./images/works/game-2048.webp",
       lists: [
@@ -251,7 +251,7 @@ export const data = {
       demoLink: "https://artem-brui.github.io/Game-2048/",
     },
     landingMET: {
-      title: "MET Landing Page",
+      title: "MET Landing Page (Frontend only)",
       focus: "HTML, SASS",
       imageLink: "./images/works/met-landing.webp",
       lists: [
