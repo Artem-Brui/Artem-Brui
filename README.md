@@ -45,6 +45,18 @@
 ## My Works
 
 
+### --- Books-Table (Frontend + Backend)
+#### TECH FOCUS: React, Context API, React Router, UrlSearchParams
+| Demo | Links |
+| :---: | :---: |
+| [<img src="./images/works/books.webp" alt="Books-Table (Frontend + Backend)" width="200px" height="200px" />](https://books-table.onrender.com/) |<div>[<img src="./images/buttons/demo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://books-table.onrender.com/) [<img src="./images/buttons/repo-link.webp" alt="Repo Link" width="120px" height="50px"/>](https://github.com/Artem-Brui/Books-Table) </div> |
+
+| Key Features | Technical Stack |
+| :---: | :---: |
+|<div align="left">- FRONTEND - Styled by Bulma CSS and custom styles<br>- FRONTEND - Fully responsive and mobile-friendly interface<br>- FRONTEND - Efficient state handling using Reducers and Dispatch<br>- FRONTEND - Universal function for handling API requests, supporting GET, POST, PATCH, and DELETE methods<br>- FRONTEND - Error handling and loading states for a smooth user experience<br>- FRONTEND - Clean and intuitive design with icon integration for enhanced UX<br>- FRONTEND - Deployed on OnRender server for seamless access and scalability<br>- BACKEND - Utilizes MongoDB for robust and scalable data storage<br>- BACKEND - RESTful API with universal request handler for efficient data processing<br>- BACKEND - Secure data handling practices to protect user information<br>- BACKEND - Built with Node.js and Express.js for fast and reliable server-side operations<br>- BACKEND - Deployed on OnRender server for reliable backend services<br></div>|<div align="left">- FRONTEND - React<br>- FRONTEND - React Router<br>- FRONTEND - TypeScript<br>- FRONTEND - SASS<br>- FRONTEND - Bulma CSS Framework and a few custom styles<br>- FRONTEND - Context API with Reducer and Dispatch<br>- FRONTEND - Universal function for API requests<br>- FRONTEND - Icon Library FontAwesome<br>- BACKEND - Node.js<br>- BACKEND - TypeScript<br>- BACKEND - Express.js<br>- BACKEND - MongoDB for database<br>- BACKEND - Universal request handler<br>- BACKEND - Secure and efficient data handling<br></div>|
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . 
 ### --- People App
 #### TECH FOCUS: React, Context API, React Router, UrlSearchParams
 | Demo | Links |

@@ -88,6 +88,51 @@ export const data = {
     },
   },
   works: {
+    booksTable: {
+      title: "Books-Table (Frontend + Backend)",
+      focus: "React, Context API, React Router, UrlSearchParams",
+      imageLink: "./images/works/books.webp",
+      lists: [
+        {
+          title: "Key Features",
+          list: [
+            "FRONTEND - Styled by Bulma CSS and custom styles",
+            "FRONTEND - Fully responsive and mobile-friendly interface",
+            "FRONTEND - Efficient state handling using Reducers and Dispatch",
+            "FRONTEND - Universal function for handling API requests, supporting GET, POST, PATCH, and DELETE methods",
+            "FRONTEND - Error handling and loading states for a smooth user experience",
+            "FRONTEND - Clean and intuitive design with icon integration for enhanced UX",
+            "FRONTEND - Deployed on OnRender server for seamless access and scalability",
+            "BACKEND - Utilizes MongoDB for robust and scalable data storage",
+            "BACKEND - RESTful API with universal request handler for efficient data processing",
+            "BACKEND - Secure data handling practices to protect user information",
+            "BACKEND - Built with Node.js and Express.js for fast and reliable server-side operations",
+            "BACKEND - Deployed on OnRender server for reliable backend services",
+          ],
+        },
+        {
+          title: "Technical Stack",
+          list: [
+            "FRONTEND - React",
+            "FRONTEND - React Router",
+            "FRONTEND - TypeScript",
+            "FRONTEND - SASS",
+            "FRONTEND - Bulma CSS Framework and a few custom styles",
+            "FRONTEND - Context API with Reducer and Dispatch",
+            "FRONTEND - Universal function for API requests",
+            "FRONTEND - Icon Library FontAwesome",
+            "BACKEND - Node.js",
+            "BACKEND - TypeScript",
+            "BACKEND - Express.js",
+            "BACKEND - MongoDB for database",
+            "BACKEND - Universal request handler",
+            "BACKEND - Secure and efficient data handling",
+          ],
+        },
+      ],
+      repoLink: "https://github.com/Artem-Brui/Books-Table",
+      demoLink: "https://books-table.onrender.com/",
+    },
     peopleApp: {
       title: "People App",
       focus: "React, Context API, React Router, UrlSearchParams",
@@ -168,11 +213,7 @@ export const data = {
         },
         {
           title: "Technical Stack",
-          list: [
-            "React 19",
-            "TypeScript",
-            "Bootstrap 5",
-          ],
+          list: ["React 19", "TypeScript", "Bootstrap 5"],
         },
       ],
       repoLink: "https://github.com/Artem-Brui/Items-Pagination",
@@ -226,11 +267,7 @@ export const data = {
         },
         {
           title: "Technical Stack",
-          list: [
-            "HTML5",
-            "CSS / SASS",
-            "GitHub Pages",
-          ],
+          list: ["HTML5", "CSS / SASS", "GitHub Pages"],
         },
       ],
       repoLink: "https://github.com/Artem-Brui/MET-Landing-page",
