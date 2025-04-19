@@ -113,16 +113,14 @@ export const data = {
         {
           title: "Technical Stack",
           list: [
-            "React",
+            "React / TypeScript",
             "React Router",
-            "TypeScript",
             "SASS",
             "Bulma CSS",
             "Context API",
             "Reducer and Dispatch",
             "FontAwesome",
-            "Node.js",
-            "TypeScript",
+            "Node.js / TypeScript",
             "Express.js",
             "REST API",
             "MongoDB",
